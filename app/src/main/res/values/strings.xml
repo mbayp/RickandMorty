@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RickandMorty</string>
+    <string name="tv_location" />
+    <string name="tv_last_known_location">\n</string>
+    <string name="tv_species_example">\n</string>
+    <string name="tv_hyphen" />
+    <string name="tv_status_example" />
+    <string name="tv_name_example" />
+</resources>
